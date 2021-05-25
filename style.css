@@ -1,10 +1,13 @@
+html {
+  background-color: rgb(15, 15, 15);
+}
+
 body {
   margin: 0;
   padding: 0;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgba(211, 211, 211, 0);
 }
 
 canvas {
