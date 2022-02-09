@@ -4,3 +4,5 @@ Front-end map application of San Diego State University's campus with zooming, p
 
 
 The application is deployed [here](https://khholst.github.io/SDSU-campus-map/)
+
+![Snipshot of the app](sdsu-snip.png "Snipshot of the map")
