@@ -1,7 +1,6 @@
-# SDSU-campus-map
+## SDSU interactive campus map
 
-Front-end map application of SDSU's campus with zooming, panning, building detection and map extent functionalities. Created with p5.js library.
+Front-end map application of San Diego State University's campus with zooming, panning, building detection and map extent functionalities. All of the functionalities are created with image manipulation using Javascript. The application uses [p5.js](https://p5js.org/) library.
 
-Individual project in GEOG-583 Data Visualization @ SDSU
 
-Deployed at: https://khholst.github.io/SDSU-campus-map/
+The application is deployed [here](https://khholst.github.io/SDSU-campus-map/)
